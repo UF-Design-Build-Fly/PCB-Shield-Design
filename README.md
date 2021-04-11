@@ -12,6 +12,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
     - fuse?
     - Powered by 5.5 V or more? Should we consider a higher voltager considering a voltage drop across drain to source.
     - Consider circuit behavior and power loss at relatively low voltages.
+- Do we just want male to female header pins on the side and a bunch of solderable holes on the rest of the board?
 - Mount will connect to carrier board through long male male pins at the bottom. Will have female pins on the top.
 - Route connections on board to carrier board pins to reduce number of solder connections.
 - Add additional mounting holes in corners of board?

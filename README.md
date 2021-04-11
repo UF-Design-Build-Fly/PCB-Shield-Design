@@ -23,7 +23,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Do we want to 3D print a mount for avionics package? Should the receiver have a box to be placed in? How compact?
 - Add in DBF logo for good measure.
 
-## Componets required
+### Componets required
 - P-channel mosfet (Manfac. #: IRF????????)
 - 3x40 male header pins
 - LEDs?

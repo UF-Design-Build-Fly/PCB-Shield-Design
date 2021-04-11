@@ -1,5 +1,5 @@
 # PCB-Shield-Design
-Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avionics Repo.
+Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avionics Repo. Here are its [dimensions](https://cdn.sparkfun.com/assets/4/8/6/f/7/MicroMod_ATP_Carrier_Board_Dimensions.png).
 
 ## Brainstorm
 - Room for sensors (gps, IMU, pressure sensor, temperature sensor, current and voltage readings)
@@ -12,6 +12,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
     - fuse?
     - Powered by 5.5 V or more? Should we consider a higher voltager considering a voltage drop across drain to source.
     - Consider circuit behavior and power loss at relatively low voltages.
+- Do we just want male to female header pins on the side and a bunch of solderable holes on the rest of the board?
 - Mount will connect to carrier board through long male male pins at the bottom. Will have female pins on the top.
 - Route connections on board to carrier board pins to reduce number of solder connections.
 - Add additional mounting holes in corners of board?
@@ -23,7 +24,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Do we want to 3D print a mount for avionics package? Should the receiver have a box to be placed in? How compact?
 - Add in DBF logo for good measure.
 
-## Componets required
+### Componets required
 - P-channel mosfet (Manfac. #: IRF????????)
 - 3x40 male header pins
 - LEDs?

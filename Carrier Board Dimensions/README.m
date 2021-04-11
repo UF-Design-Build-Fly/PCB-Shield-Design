@@ -1,0 +1,1 @@
+Go to Altium Viewer to view the files: https://www.altium.com/viewer/#features

@@ -1,5 +1,5 @@
 # PCB-Shield-Design
-Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avionics Repo.
+Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avionics Repo. Here are its [dimensions](https://cdn.sparkfun.com/assets/4/8/6/f/7/MicroMod_ATP_Carrier_Board_Dimensions.png).
 
 ## Brainstorm
 - Room for sensors (gps, IMU, pressure sensor, temperature sensor, current and voltage readings)

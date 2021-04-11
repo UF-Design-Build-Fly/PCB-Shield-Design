@@ -26,6 +26,6 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 
 ### Componets required
 - P-channel mosfet (Manfac. #: IRF????????)
-- 3x40 male header pins
+- 0.100" (2.54 mm) Breakaway Male Header: 3×40-Pin, Straight, Black
 - LEDs?
 - Additional Sensors?

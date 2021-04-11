@@ -6,7 +6,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Ability to read 8 channels from receiver (maybe up to 16).
 - Servos will plug into pin connectors on board (3x8 or 3x16 male header pins).
 - [Reverse polarity protection?](https://www.youtube.com/watch?v=IrB-FPcv1Dc)
-    - Do we want avionics package to act only as a load or do we want the ability to debug board using serial monitor (voltage source from computer).
+    - Do we want avionics package to act only as a load or do we want the ability to debug board using serial monitor while reading pwm.
     - P-Channel MOSFET
     - Optimize parameters for MOSFET in application
     - fuse?
@@ -21,9 +21,10 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Do we want to add additional sensors?
 - Considerations in code. Are we going to use interrupts for any sensors? 
 - Do we want to 3D print a mount for avionics package? Should the receiver have a box to be placed in? How compact?
+- Add in DBF logo for good measure.
 
 ## Componets required
 - P-channel mosfet (Manfac. #: IRF????????)
 - 3x40 male header pins
 - LEDs?
-- Additional Sensors
+- Additional Sensors?

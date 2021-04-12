@@ -1,0 +1,64 @@
+Importer Log Report
+Project : MicroMod_ATP_CarrierBoard.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Carrier Board Dimensions\MicroMod_ATP_CarrierBoard.brd
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Carrier Board Dimensions\MicroMod_ATP_CarrierBoard.brd
+    Load settings
+    Load layers 150
+    Load board
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 6
+    Load Library "SparkFun-Connectors"
+    Load Packages 12
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 2
+    Load Library "SparkFun-Hardware"
+    Load Packages 2
+    Load Library "SparkFun-Batteries"
+    Load Packages 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 3
+    ERROR: Unhandled typepackages3d
+    Load Library "SparkFun-Switches"
+    Load Packages 1
+    Load Library "SparkFun-Fuses"
+    Load Packages 1
+    Load Library "buzzard_labels (9)"
+    Load Packages 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    Load Library "SparkFun-MicroMod"
+    Load Packages 3
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "headtop"
+    Load Packages 17
+    Load Library "power"
+    Load Packages 13
+    Load Library "ana"
+    Load Packages 17
+    Load Library "headers_dup"
+    Load Packages 12
+    Load Library "fl1"
+    Load Packages 6
+    Load Library "fl2"
+    Load Packages 16
+    Load Library "fl4"
+    Load Packages 17
+    Load Library "fl3"
+    Load Packages 12
+    Load Library "D1"
+    Load Packages 1
+    Load Library "D1_again"
+    Load Packages 1
+    Load Library "output"
+    Load Packages 2
+    Load Library "alc"
+    Load Packages 8
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection

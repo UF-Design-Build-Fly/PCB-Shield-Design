@@ -1,0 +1,49 @@
+Importer Log Report
+Project : SparkFun_Qwiic_VR_IMU_Breakout.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\SparkFun_Qwiic_VR_IMU_Breakout\SparkFun_Qwiic_VR_IMU_Breakout.brd
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\SparkFun_Qwiic_VR_IMU_Breakout\SparkFun_Qwiic_VR_IMU_Breakout.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun"
+    Load Packages 3
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 1
+    Load Library "SparkX"
+    Load Packages 2
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 5
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 4
+    Load Library "SparkFun-Clocks"
+    Load Packages 1
+    Load Library "Labels-0_04"
+    Load Packages 7
+    Load Library "buzzard_labels (2)"
+    Load Packages 11
+    Load Library "buzzard_labels (4)"
+    Load Packages 1
+    Load Library "buzzard_labels (5)"
+    Load Packages 3
+    Load Library "buzzard_labels (6)"
+    Load Packages 2
+    Load Library "buzzard_labels (7)"
+    Load Packages 2
+    Load Library "buzzard_labels (8)"
+    Load Packages 4
+    Load Library "buzzard_labels (9)"
+    Load Packages 1
+    Load Library "buzzard_labels (11)"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "Qwiic#Label#Full#M#png (6)"
+    Load Packages 1
+    Load Library "SparkFun-IC-Special-Function"
+    Load Packages 1
+EndSection

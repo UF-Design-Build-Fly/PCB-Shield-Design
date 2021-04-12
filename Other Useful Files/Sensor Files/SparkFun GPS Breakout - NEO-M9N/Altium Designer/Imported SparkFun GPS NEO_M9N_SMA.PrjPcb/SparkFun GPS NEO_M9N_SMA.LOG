@@ -1,0 +1,44 @@
+Importer Log Report
+Project : SparkFun GPS NEO_M9N_SMA.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\New folder\SparkFun GPS NEO_M9N_SMA.brd
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\New folder\SparkFun GPS NEO_M9N_SMA.brd
+    Load settings
+    Load layers 175
+    Load board
+    Load Library "SparkFun"
+    Load Packages 2
+    Load Library "SparkFun-Resistors"
+    Load Packages 2
+    Load Library "SparkFun-Jumpers"
+    Load Packages 3
+    ERROR: Unhandled typepackages3d
+    Load Library "SparkFun-Connectors"
+    Load Packages 5
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 4
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "SparkFun-Batteries"
+    Load Packages 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 2
+    Load Library "SparkFun-GPS"
+    Load Packages 1
+    Load Library "NEO_GPS_board_silk_FINAL#03#jpg"
+    Load Packages 1
+    Load Library "SparkFun-RF"
+    Load Packages 1
+    Load Library "SparkFun-Coils"
+    Load Packages 1
+    Load Library "gps"
+    Load Packages 19
+    Load Library "gps2"
+    Load Packages 14
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection

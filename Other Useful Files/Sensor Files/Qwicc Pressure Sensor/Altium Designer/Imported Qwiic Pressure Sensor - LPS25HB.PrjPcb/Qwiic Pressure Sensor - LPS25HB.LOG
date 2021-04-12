@@ -1,0 +1,33 @@
+Importer Log Report
+Project : Qwiic Pressure Sensor - LPS25HB.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\Qwicc Pressure Sensor\Qwiic Pressure Sensor - LPS25HB.brd
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\PCB-Shield-Design\Sensor Files\Qwicc Pressure Sensor\Qwiic Pressure Sensor - LPS25HB.brd
+    Load settings
+    Load layers 147
+    Load board
+    Load Library "SparkFun"
+    Load Packages 2
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 2
+    Load Library "SparkX"
+    Load Packages 2
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 2
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    Load Library "Labels-0_04"
+    Load Packages 4
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "buzzard_labels (2)"
+    Load Packages 2
+    Load Library "SparkFun-Connectors"
+    Load Packages 3
+    Load Library "Labels"
+    Load Packages 9
+    Load Library "LPS25HB"
+    Load Packages 1
+EndSection

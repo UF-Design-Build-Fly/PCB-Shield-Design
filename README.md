@@ -7,7 +7,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Servos will plug into pin connectors on board (3x8 or 3x16 male header pins).
 - [Reverse polarity protection?](https://www.youtube.com/watch?v=IrB-FPcv1Dc)
     - Do we want avionics package to act only as a load or do we want the ability to debug board using serial monitor while reading pwm.
-    - P-Channel MOSFET
+    - [P-Channel MOSFET](https://www.mouser.com/Semiconductors/Discrete-Semiconductors/Transistors/MOSFET/_/N-ax1sf?P=1z0z7ptZ1yzxnagZ1z0y3dt&Rl=ax1sfZgjdhp2Z1yw74nrZ1yw78hpSGTax1sfZgjdhp5Z1ys05aaZ1yw8q5sSGT)
     - Optimize parameters for MOSFET in application
     - fuse?
     - Powered by 5.5 V or more? Should we consider a higher voltager considering a voltage drop across drain to source.

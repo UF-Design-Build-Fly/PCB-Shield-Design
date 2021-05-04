@@ -1,0 +1,22 @@
+Importer Log Report
+Project : SparkFun-Connectors.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\test library\SparkFun-Eagle-Libraries-master\SparkFun-Connectors.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\test library\SparkFun-Eagle-Libraries-master\SparkFun-Connectors.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 394
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 103
+    Load DeviceSets 111
+EndSection

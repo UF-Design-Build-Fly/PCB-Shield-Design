@@ -1,0 +1,182 @@
+Added Component: Designator=J1(1X04_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_04"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1X04_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_04"; VariantName = "[No Variations]"
+Added Component: Designator=J3(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J4(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J5(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J6(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J7(1X05_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X05_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_05"; VariantName = "[No Variations]"
+Added Component: Designator=J8(1X05_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X05_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_05"; VariantName = "[No Variations]"
+Added Component: Designator=J9(1X04_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_04"; VariantName = "[No Variations]"
+Added Component: Designator=J10(1X04_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X04_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_04"; VariantName = "[No Variations]"
+Added Component: Designator=J11(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J12(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J13(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J14(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J15(1X12)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_12"; VariantName = "[No Variations]"
+Added Component: Designator=J16(1X12)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_12"; VariantName = "[No Variations]"
+Added Net: Name=NetJ1_3V3
+Added Net: Name=NetJ1_GND
+Added Net: Name=NetJ1_RESET
+Added Net: Name=NetJ1_VIN
+Added Net: Name=NetJ3_A0
+Added Net: Name=NetJ3_A1
+Added Net: Name=NetJ3_G0
+Added Net: Name=NetJ3_G1
+Added Net: Name=NetJ3_G9
+Added Net: Name=NetJ3_G10
+Added Net: Name=NetJ3_PWM0
+Added Net: Name=NetJ3_PWM1
+Added Net: Name=NetJ5_G2
+Added Net: Name=NetJ5_G3
+Added Net: Name=NetJ5_G4
+Added Net: Name=NetJ5_G5
+Added Net: Name=NetJ5_G6
+Added Net: Name=NetJ5_G7
+Added Net: Name=NetJ5_G8
+Added Net: Name=NetJ5_G11
+Added Net: Name=NetJ7_3V3
+Added Net: Name=NetJ7_GND
+Added Net: Name=NetJ7_I2C INT
+Added Net: Name=NetJ7_SCL
+Added Net: Name=NetJ7_SDA
+Added Net: Name=NetJ9_3V3
+Added Net: Name=NetJ9_GND
+Added Net: Name=NetJ9_SCL1
+Added Net: Name=NetJ9_SDA1
+Added Net: Name=NetJ11_CAN RX
+Added Net: Name=NetJ11_CAN TX
+Added Net: Name=NetJ11_D0
+Added Net: Name=NetJ11_D1
+Added Net: Name=NetJ11_GND
+Added Net: Name=NetJ11_RX2
+Added Net: Name=NetJ11_RX
+Added Net: Name=NetJ11_TX2
+Added Net: Name=NetJ13_CTS
+Added Net: Name=NetJ13_I2C CLK
+Added Net: Name=NetJ13_I2C FS
+Added Net: Name=NetJ13_I2C SDI
+Added Net: Name=NetJ13_I2C SDO
+Added Net: Name=NetJ13_MCLK
+Added Net: Name=NetJ13_RTS
+Added Net: Name=NetJ13_TX
+Added Net: Name=NetJ15_3V3
+Added Net: Name=NetJ15_CIPO1
+Added Net: Name=NetJ15_CIPO
+Added Net: Name=NetJ15_COPI1
+Added Net: Name=NetJ15_COPI
+Added Net: Name=NetJ15_CS1
+Added Net: Name=NetJ15_CS
+Added Net: Name=NetJ15_DAT1
+Added Net: Name=NetJ15_DAT2
+Added Net: Name=NetJ15_GND
+Added Net: Name=NetJ15_SCK1
+Added Net: Name=NetJ15_SCK
+Added Class: Name=Shield_Schematic

@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=MicroMod_ATP_CarrierBoard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DJEQOXAS
+
+[Document2]
 DocumentPath=MicroMod_ATP_CarrierBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GIXKFSEG
+DocumentUniqueId=SIMMPKFM
 
 [GeneratedDocument1]
 DocumentPath=MicroMod_ATP_CarrierBoard.LOG

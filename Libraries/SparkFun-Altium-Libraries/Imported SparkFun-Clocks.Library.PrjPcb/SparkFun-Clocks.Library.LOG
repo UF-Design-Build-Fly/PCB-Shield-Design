@@ -1,0 +1,534 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\LilyPad-Wearables.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\LilyPad-Wearables.lbr
+    Load settings
+    Load layers 97
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Aesthetics.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Aesthetics.lbr
+    Load settings
+    Load layers 174
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 96
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 30
+    Load DeviceSets 30
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Batteries.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Batteries.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Boards.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Boards.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 71
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 62
+    Load DeviceSets 47
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Buzzard.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Buzzard.lbr
+    Load settings
+    Load layers 62
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 53
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Clocks.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Clocks.lbr
+    Load settings
+    Load layers 143
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 30
+    Load Symbols 13
+    Load DeviceSets 29
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Coils.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Coils.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 4
+    Load DeviceSets 23
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-DiscreteSemi.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-DiscreteSemi.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 40
+    ERROR: Unhandled typepackages3d
+    Load Symbols 33
+    Load DeviceSets 38
+    ERROR: Unhandled typepackage3dinstances
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Displays.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Displays.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 16
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Electromechanical.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Electromechanical.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 8
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Fuses.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Fuses.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-GPS.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-GPS.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 20
+    Load Symbols 17
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Hardware.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Hardware.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 23
+    Load Symbols 11
+    Load DeviceSets 11
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Amplifiers.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Amplifiers.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 11
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Comms.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Comms.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 25
+    Load Symbols 24
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Conversion.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Conversion.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 13
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Logic.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Logic.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 18
+    Load DeviceSets 17
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Memory.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Memory.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 7
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Microcontroller.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Microcontroller.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 42
+    Load Symbols 72
+    Load DeviceSets 42
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Power.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Power.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 44
+    Load DeviceSets 52
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Special-Function.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-IC-Special-Function.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 44
+    Load Symbols 44
+    Load DeviceSets 44
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-LED.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-LED.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 45
+    Load Symbols 14
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-MicroMod.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-MicroMod.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-PowerSymbols.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-PowerSymbols.lbr
+    Load settings
+    Load layers 143
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 28
+    Load DeviceSets 29
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Resistors.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Resistors.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 35
+    Load Symbols 9
+    Load DeviceSets 124
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Retired.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Retired.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 303
+    ERROR: Unhandled typedimension
+    Load Symbols 221
+    Load DeviceSets 245
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-RF.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-RF.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 68
+    ERROR: Unhandled typedimension
+    Load Symbols 54
+    Load DeviceSets 50
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Sensors.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Sensors.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 104
+    Load Symbols 101
+    Load DeviceSets 103
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Switches.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\SparkFun-Eagle-Libraries-master (EAGLE)\SparkFun-Switches.lbr
+    Load settings
+    Load layers 141
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 67
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 26
+    Load DeviceSets 28
+EndSection

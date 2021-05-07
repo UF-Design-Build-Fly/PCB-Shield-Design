@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CELL 6 Pin=BAL. 6s-1
+Removed Pin From Net: NetName=CELL 5 Pin=BAL. 6s-2
+Removed Pin From Net: NetName=CELL 4 Pin=BAL. 6s-3
+Removed Pin From Net: NetName=CELL 2 Pin=BAL. 6s-5
+Removed Pin From Net: NetName=CELL 1 Pin=BAL. 6s-6
+Removed Pin From Net: NetName=GND Pin=BAL. 6s-7
+Change Component Designator: OldDesignator=AILE. NewDesignator=J18
+Change Component Designator: OldDesignator=Alarm NewDesignator=J26
+Change Component Designator: OldDesignator=BAL. 6s NewDesignator=BAL1
+Change Component Designator: OldDesignator=CHAN 5 NewDesignator=J21
+Change Component Designator: OldDesignator=CHAN 6 NewDesignator=J22
+Change Component Designator: OldDesignator=CHAN 7 NewDesignator=J23
+Change Component Designator: OldDesignator=CHAN 8 NewDesignator=J24
+Change Component Designator: OldDesignator=ELEV. NewDesignator=J19
+Change Component Designator: OldDesignator=Receiver NewDesignator=J25
+Change Component Designator: OldDesignator=RUDD. NewDesignator=J20
+Change Component Designator: OldDesignator=Servo PWR NewDesignator=P1
+Change Component Designator: OldDesignator=THROTT. NewDesignator=J17
+Added Pin To Net: NetName=GND Pin=BAL1-1
+Added Pin To Net: NetName=CELL 1 Pin=BAL1-2
+Added Pin To Net: NetName=CELL 2 Pin=BAL1-3
+Added Pin To Net: NetName=CELL 4 Pin=BAL1-5
+Added Pin To Net: NetName=CELL 5 Pin=BAL1-6
+Added Pin To Net: NetName=CELL 6 Pin=BAL1-7

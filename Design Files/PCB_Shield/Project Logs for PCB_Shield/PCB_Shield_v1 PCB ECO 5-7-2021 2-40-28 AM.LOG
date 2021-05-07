@@ -1,0 +1,11 @@
+Added Component: Designator=BAL1(JST1x7)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2240-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL 6 Pin=BAL1-1
+Added Pin To Net: NetName=CELL 5 Pin=BAL1-2
+Added Pin To Net: NetName=CELL 4 Pin=BAL1-3
+Added Pin To Net: NetName=CELL 3 Pin=BAL1-4
+Added Pin To Net: NetName=CELL 2 Pin=BAL1-5
+Added Pin To Net: NetName=CELL 1 Pin=BAL1-6
+Added Pin To Net: NetName=GND Pin=BAL1-7
+Added Member To Class: ClassName=Shield_Schematic Member=Component BAL1 JST1x7

@@ -1,0 +1,16 @@
+Added Component: Designator=MicroSD(MICROSD)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MICROSD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROSD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TRANSFLASH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS Pin=MicroSD-2
+Added Pin To Net: NetName=COPI Pin=MicroSD-3
+Added Pin To Net: NetName=3V3 S1 Pin=MicroSD-4
+Added Pin To Net: NetName=SCK Pin=MicroSD-5
+Added Pin To Net: NetName=GND Pin=MicroSD-6
+Added Pin To Net: NetName=CIPO Pin=MicroSD-7
+Added Pin To Net: NetName=GND Pin=MicroSD-MT1
+Added Pin To Net: NetName=GND Pin=MicroSD-MT2
+Added Member To Class: ClassName=Shield_Schematic Member=Component MicroSD Micro-SD / Transflash card holder with SPI pinout   For the 3M # 2908-05WB-MG and/or 4UCON #19656 push-push type

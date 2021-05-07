@@ -1,0 +1,14 @@
+Importer Log Report
+Project : adafruit.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\Adafruit Libraries (EAGLE)\adafruit.lbr
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Libraries\Adafruit Libraries (EAGLE)\adafruit.lbr
+    Load settings
+    Load layers 143
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 643
+    Load Symbols 206
+    Load DeviceSets 199
+EndSection

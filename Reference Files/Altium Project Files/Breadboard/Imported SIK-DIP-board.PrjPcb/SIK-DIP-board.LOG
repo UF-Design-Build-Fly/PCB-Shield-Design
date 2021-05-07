@@ -1,0 +1,40 @@
+Importer Log Report
+Project : SIK-DIP-board.PrjPcb
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\UF DBF\Docs\SIK-DIP-board.brd
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\UF DBF\Docs\SIK-DIP-board.brd
+    Load settings
+    Load layers 108
+    Load board
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 4
+    Load Library "SparkFun-Electromechanical"
+    Load Packages 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 3
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\ethan\OneDrive\Documents\UF DBF\Docs\SIK-DIP-board.sch
+    Analyzing data of C:\Users\ethan\OneDrive\Documents\UF DBF\Docs\SIK-DIP-board.sch
+    Load settings
+    Load layers 108
+    Load schematic
+    Load Libraries 3
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 10
+    Load Symbols 4
+    Load DeviceSets 3
+    Load Library "SparkFun-Electromechanical"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 24
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 76
+    Load Sheets 1
+EndSection

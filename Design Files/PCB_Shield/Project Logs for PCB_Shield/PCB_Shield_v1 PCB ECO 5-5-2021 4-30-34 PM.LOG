@@ -1,0 +1,141 @@
+Added Component: Designator=BNO080(PCBComponent_1)
+Added Component: Designator=J17(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J18(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J19(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J20(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J21(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J22(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J23(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J24(1X03_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Component: Designator=J25(1X08_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK_FEMALE_PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X08_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_08"; VariantName = "[No Variations]"
+Added Component: Designator=J26(1X02_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "1X02_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X02_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_02"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(SMT-JUMPER_2_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"
+Added Component: Designator=LPS25HB(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=BNO080-1
+Added Pin To Net: NetName=3V3 S3 Pin=BNO080-2
+Added Pin To Net: NetName=SDA Pin=BNO080-3
+Added Pin To Net: NetName=SCL Pin=BNO080-4
+Added Pin To Net: NetName=GND Pin=J17-1
+Added Pin To Net: NetName=G0 Pin=J17-3
+Added Pin To Net: NetName=GND Pin=J18-1
+Added Pin To Net: NetName=G1 Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J19-1
+Added Pin To Net: NetName=G2 Pin=J19-3
+Added Pin To Net: NetName=GND Pin=J20-1
+Added Pin To Net: NetName=G3 Pin=J20-3
+Added Pin To Net: NetName=GND Pin=J21-1
+Added Pin To Net: NetName=G4 Pin=J21-3
+Added Pin To Net: NetName=GND Pin=J22-1
+Added Pin To Net: NetName=G5 Pin=J22-3
+Added Pin To Net: NetName=GND Pin=J23-1
+Added Pin To Net: NetName=G6 Pin=J23-3
+Added Pin To Net: NetName=GND Pin=J24-1
+Added Pin To Net: NetName=G7 Pin=J24-3
+Added Pin To Net: NetName=G7 Pin=J25-1
+Added Pin To Net: NetName=G6 Pin=J25-2
+Added Pin To Net: NetName=G5 Pin=J25-3
+Added Pin To Net: NetName=G4 Pin=J25-4
+Added Pin To Net: NetName=G3 Pin=J25-5
+Added Pin To Net: NetName=G2 Pin=J25-6
+Added Pin To Net: NetName=G1 Pin=J25-7
+Added Pin To Net: NetName=G0 Pin=J25-8
+Added Pin To Net: NetName=GND Pin=J26-1
+Added Pin To Net: NetName=I2C INT Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=LPS25HB-1
+Added Pin To Net: NetName=3V3 S3 Pin=LPS25HB-2
+Added Pin To Net: NetName=SDA Pin=LPS25HB-3
+Added Pin To Net: NetName=SCL Pin=LPS25HB-4
+Added Pin To Net: NetName=NetBNO080_5 Pin=BNO080-5
+Added Pin To Net: NetName=NetBNO080_5 Pin=JP1-1
+Added Net: Name=NetBNO080_5
+Added Pin To Net: NetName=Servo VCC Pin=J17-2
+Added Pin To Net: NetName=Servo VCC Pin=J18-2
+Added Pin To Net: NetName=Servo VCC Pin=J19-2
+Added Pin To Net: NetName=Servo VCC Pin=J20-2
+Added Pin To Net: NetName=Servo VCC Pin=J21-2
+Added Pin To Net: NetName=Servo VCC Pin=J22-2
+Added Pin To Net: NetName=Servo VCC Pin=J23-2
+Added Pin To Net: NetName=Servo VCC Pin=J24-2
+Added Pin To Net: NetName=Servo VCC Pin=J26-2
+Added Net: Name=Servo VCC
+Added Member To Class: ClassName=Shield_Schematic Member=Component BNO080
+Added Member To Class: ClassName=Shield_Schematic Member=Component J17
+Added Member To Class: ClassName=Shield_Schematic Member=Component J18
+Added Member To Class: ClassName=Shield_Schematic Member=Component J19
+Added Member To Class: ClassName=Shield_Schematic Member=Component J20
+Added Member To Class: ClassName=Shield_Schematic Member=Component J21
+Added Member To Class: ClassName=Shield_Schematic Member=Component J22
+Added Member To Class: ClassName=Shield_Schematic Member=Component J23
+Added Member To Class: ClassName=Shield_Schematic Member=Component J24
+Added Member To Class: ClassName=Shield_Schematic Member=Component J25
+Added Member To Class: ClassName=Shield_Schematic Member=Component J26
+Added Member To Class: ClassName=Shield_Schematic Member=Component JP1
+Added Member To Class: ClassName=Shield_Schematic Member=Component LPS25HB
+Added Room: Name=Shield_Schematic

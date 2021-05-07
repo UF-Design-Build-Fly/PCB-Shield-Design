@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=Servo PWR-1
+Removed Pin From Net: NetName=Servo VCC Pin=Servo PWR-2
+Change Component Designator: OldDesignator=AILE. NewDesignator=J18
+Change Component Designator: OldDesignator=CHAN 5 NewDesignator=J21
+Change Component Designator: OldDesignator=CHAN 6 NewDesignator=J22
+Change Component Designator: OldDesignator=CHAN 7 NewDesignator=J23
+Change Component Designator: OldDesignator=CHAN 8 NewDesignator=J24
+Change Component Designator: OldDesignator=ELEV. NewDesignator=J19
+Change Component Designator: OldDesignator=RUDD. NewDesignator=J20
+Change Component Designator: OldDesignator=THROTT. NewDesignator=J17
+Added Component: Designator=BAL1(JST1x7)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2240-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J26(1X09_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X09_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_09"; VariantName = "[No Variations]"
+Added Component: Designator=P1(MOLEX-HDR-1X2-SHERLOCK-VERT)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT30(PCBComponent_1)
+Added Pin To Net: NetName=A0 Pin=BAL1-6
+Added Pin To Net: NetName=GND Pin=BAL1-7
+Added Pin To Net: NetName=GND Pin=J26-1
+Added Pin To Net: NetName=A0 Pin=J26-2
+Added Pin To Net: NetName=Servo VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VIN Pin=XT30-1
+Added Pin To Net: NetName=GND Pin=XT30-2
+Added Pin To Net: NetName=CELL 2 Pin=BAL1-5
+Added Pin To Net: NetName=CELL 2 Pin=J26-3
+Added Net: Name=CELL 2
+Added Pin To Net: NetName=CELL 3 Pin=BAL1-4
+Added Pin To Net: NetName=CELL 3 Pin=J26-4
+Added Net: Name=CELL 3
+Added Pin To Net: NetName=CELL 4 Pin=BAL1-3
+Added Pin To Net: NetName=CELL 4 Pin=J26-5
+Added Net: Name=CELL 4
+Added Pin To Net: NetName=CELL 5 Pin=BAL1-2
+Added Pin To Net: NetName=CELL 5 Pin=J26-6
+Added Net: Name=CELL 5
+Added Pin To Net: NetName=CELL 6 Pin=BAL1-1
+Added Pin To Net: NetName=CELL 6 Pin=J26-7
+Added Net: Name=CELL 6
+Added Member To Class: ClassName=Shield_Schematic Member=Component BAL1 JST1x7
+Added Member To Class: ClassName=Shield_Schematic Member=Component J17
+Added Member To Class: ClassName=Shield_Schematic Member=Component J18
+Added Member To Class: ClassName=Shield_Schematic Member=Component J19
+Added Member To Class: ClassName=Shield_Schematic Member=Component J20
+Added Member To Class: ClassName=Shield_Schematic Member=Component J21
+Added Member To Class: ClassName=Shield_Schematic Member=Component J22
+Added Member To Class: ClassName=Shield_Schematic Member=Component J23
+Added Member To Class: ClassName=Shield_Schematic Member=Component J24
+Added Member To Class: ClassName=Shield_Schematic Member=Component J26
+Added Member To Class: ClassName=Shield_Schematic Member=Component P1 2-pin Vert Sherlock
+Added Member To Class: ClassName=Shield_Schematic Member=Component XT30
+Added Room: Name=Shield_Schematic

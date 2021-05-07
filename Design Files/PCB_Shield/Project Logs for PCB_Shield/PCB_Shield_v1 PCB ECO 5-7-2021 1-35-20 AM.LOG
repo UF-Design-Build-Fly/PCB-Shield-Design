@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=A0 Pin=BAL1-6
+Removed Pin From Net: NetName=A0 Pin=J26-2
+Change Component Designator: OldDesignator=Servo PWR NewDesignator=P1
+Added Component: Designator=C1(CAPC0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 S1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=A0 Pin=R1-2
+Added Pin To Net: NetName=A0 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=CELL 1 Pin=BAL1-6
+Added Pin To Net: NetName=CELL 1 Pin=J26-2
+Added Pin To Net: NetName=CELL 1 Pin=R1-1
+Added Net: Name=CELL 1
+Added Member To Class: ClassName=Shield_Schematic Member=Component C1 Cap
+Added Member To Class: ClassName=Shield_Schematic Member=Component MicroSD Micro-SD / Transflash card holder with SPI pinout   For the 3M # 2908-05WB-MG and/or 4UCON #19656 push-push type
+Added Member To Class: ClassName=Shield_Schematic Member=Component R1 Res
+Added Member To Class: ClassName=Shield_Schematic Member=Component R2 Res

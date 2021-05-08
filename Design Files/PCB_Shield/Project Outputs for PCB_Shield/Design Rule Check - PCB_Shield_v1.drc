@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ethan\OneDrive\Documents\GitHub\DBF\PCB-Shield-Design\Design Files\PCB_Shield\PCB_Shield_v1.PcbDoc
-Date     : 5/7/2021
-Time     : 2:50:42 AM
+Date     : 5/8/2021
+Time     : 11:46:48 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

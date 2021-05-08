@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=BAL1 NewDesignator=BAL. 6s
+Change Component Designator: OldDesignator=J17 NewDesignator=THROTT.
+Change Component Designator: OldDesignator=J18 NewDesignator=AILE.
+Change Component Designator: OldDesignator=J19 NewDesignator=ELEV.
+Change Component Designator: OldDesignator=J20 NewDesignator=RUDD.
+Change Component Designator: OldDesignator=J21 NewDesignator=CHAN 5
+Change Component Designator: OldDesignator=J22 NewDesignator=CHAN 6
+Change Component Designator: OldDesignator=J23 NewDesignator=CHAN 7
+Change Component Designator: OldDesignator=J24 NewDesignator=CHAN 8
+Change Component Designator: OldDesignator=J25 NewDesignator=Receiver
+Change Component Designator: OldDesignator=J26 NewDesignator=Alarm
+Change Component Designator: OldDesignator=P1 NewDesignator=Servo PWR

@@ -1,0 +1,14 @@
+Change Component Description : Designator=Volt. Reg. Old Description=1.25 V forms across R3. This current flows through R4, thus the sum of voltage across R3 and R4 is Vout. New Description=
+Change component parameters: Designator = "Volt. Reg." ("Volt. Reg."); Footprint = "TO254P1054X470X1955-3"; UniqueID = "\JTAVKKLL" ("\JTAVKKLL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "LM338T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "LM338T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LM338T/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM338T/NOPB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LM338T"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Shield_Schematic Member=Component Volt. Reg. Check prices

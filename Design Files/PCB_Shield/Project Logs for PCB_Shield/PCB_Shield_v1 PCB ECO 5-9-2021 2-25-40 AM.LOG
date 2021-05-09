@@ -1,0 +1,16 @@
+Added Component: Designator=Volt. Reg.(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LM338T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "LM338T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM338T/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM338T/NOPB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LM338T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_2 Pin=Volt. Reg.-1
+Added Pin To Net: NetName=VIN Pin=Volt. Reg.-2
+Added Pin To Net: NetName=VIN REG Pin=Volt. Reg.-3
+Added Member To Class: ClassName=Shield_Schematic Member=Component Volt. Reg. Check prices

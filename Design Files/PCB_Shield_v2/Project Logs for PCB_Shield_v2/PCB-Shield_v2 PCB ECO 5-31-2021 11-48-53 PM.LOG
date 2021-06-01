@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator=6s NewDesignator=BAL1
+Change Component Designator: OldDesignator=8s NewDesignator=BAL2
+Added Pin To Net: NetName=3V3 S4 Pin=BOARD-57
+Added Pin To Net: NetName=3V3 S4 Pin=BOARD-57
+Added Pin To Net: NetName=3V3 S4 Pin=C1-1
+Added Pin To Net: NetName=3V3 S4 Pin=uSD-4
+Added Net: Name=3V3 S4
+Added Member To Class: ClassName=Shield_Schematic_v2 Member=Component U1 LMZ12002TZ-ADJ/NOPB

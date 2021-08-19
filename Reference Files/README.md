@@ -1,5 +1,5 @@
 ## Viewing PCBs
-If you do not Altium Designer go to Altium Viewer to view the files under "Import Files": https://www.altium.com/viewer/#features
+If you do not have Altium Designer go to Altium Viewer to view the files under "Import Files": https://www.altium.com/viewer/#features
 
 ### Things to remember
 - 1 mil = 1 thousandth of an inch

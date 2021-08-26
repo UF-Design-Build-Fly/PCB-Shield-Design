@@ -14,6 +14,7 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - 2 LED light indicators to communicate state of device.
 
 ![TOP VIEW 3D](https://github.com/UF-Design-Build-Fly/PCB-Shield-Design/blob/main/Figures/PCB/Top_3D.PNG)
+<img src="https://github.com/UF-Design-Build-Fly/PCB-Shield-Design/blob/main/Figures/PCB/Top_3D.PNG" width="285" height="170">
 
 ## v3 Revisions
 - Remove unnecessary parts on PCB: JST connectors for battery balance leads, alarm connector, voltage divider for monitoring 1st cell on battery, any useless female connectors that can free up space (e.g. we are not using I2S connectors or any UART but we are using I2C, etc.).

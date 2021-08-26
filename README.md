@@ -13,6 +13,8 @@ Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avion
 - Mounting holes on corners of the board (100 mil diameter).
 - 2 LED light indicators to communicate state of device.
 
+![TOP VIEW 3D](https://github.com/UF-Design-Build-Fly/PCB-Shield-Design/blob/main/Figures/PCB/Top_3D.PNG)
+
 ## v3 Revisions
 - Remove unnecessary parts on PCB: JST connectors for battery balance leads, alarm connector, voltage divider for monitoring 1st cell on battery, any useless female connectors that can free up space (e.g. we are not using I2S connectors or any UART but we are using I2C, etc.).
 - Remove solder mask on servo PWR and GND. Change trace width to somewhere between 80 and 90 mil. Decide whether custom copper bus bar or a layer of solder will be used to increase the amount of current the traces can carry. Solder can be around 10 times less conductive resulting in greater power loss, but it is the simpler solution (silver solder is only around 5 to 2.5 times less conductive). Copper bus bar is the more complex solution and involves machining or plasma cutting bus bars from sheets of copper and then connecting them to the board with a thin layer of solder for an adequate connection. This solution provides better power delivery and will result in less heat being generated.

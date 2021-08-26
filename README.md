@@ -29,6 +29,8 @@ BOTTOM 3D             |  BOTTOM PCB
 - Decide on dedicated pin usage for PCB. 
 - Should the width of the board be increased?
 - Correct screw size for 0.1 inch.
+- Servo PWR connector should be XT30
+- Determine whether or not XT30 connectors should be horizontal and not vertical.
 
 ## Additional Ideas?
 - Make another small board to send signals from angle of attack sensor

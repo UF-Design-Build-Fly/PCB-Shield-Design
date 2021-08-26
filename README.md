@@ -1,7 +1,7 @@
 # PCB-Shield-Design Description
 Custom "Shield" Design to be mounted on MicroMod ATP Carrier board seen in Avionics Repo. Here are its [dimensions](https://cdn.sparkfun.com/assets/4/8/6/f/7/MicroMod_ATP_Carrier_Board_Dimensions.png).
 
-## Features
+## Features v2
 - Sensors on board: IMU, pressure, temperature, voltage, current, airspeed. 
 - 3 pin connectors for servos. 
 - PWM signals from receiver are wired to the board and routed to the servos.

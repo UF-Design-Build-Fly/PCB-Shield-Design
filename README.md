@@ -31,6 +31,9 @@ BOTTOM 3D             |  BOTTOM PCB
 - Correct screw size for 0.1 inch.
 - Servo PWR connector should be XT30
 - Determine whether or not XT30 connectors should be horizontal and not vertical.
+- Change Rfbb resistor (must be between 1k and 10k) on buck converter to a potentiometer. Probably buy a 2k potentiometer with a screw terminal. This allows us to tune the output voltage to 5V.
+- Add power LED at Vout of LMZ12002
+- Add piezo for sounds?
 
 ## Additional Ideas?
 - Make another small board to send signals from angle of attack sensor

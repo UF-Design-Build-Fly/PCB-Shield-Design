@@ -1,0 +1,3 @@
+Change Component Comment : Designator=uSD? Old Comment=Micro-SD / Transflash card holder with SPI pinout   For the 3M # 2908-05WB-MG and/or 4UCON #19656 push-push type New Comment=MICROSD
+Change Component Designator: OldDesignator=uSD? NewDesignator=uSD
+Added Room: Name=Shield_Schematic_v2

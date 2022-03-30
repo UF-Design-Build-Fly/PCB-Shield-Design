@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=6s NewDesignator=BAL1
+Change Component Designator: OldDesignator=8s NewDesignator=BAL2
+Added Member To Class: ClassName=Shield_Schematic_v2 Member=Component BAL1 6s_BALANCE_CONN
+Added Member To Class: ClassName=Shield_Schematic_v2 Member=Component BAL2 8s_BALANCE_CONN

@@ -1,0 +1,4 @@
+Remove Pin=D1-A From Net=D0
+Remove Pin=D2-A From Net=D1
+Change Component Comment: Designator=uSD Old Comment=MICROSD New Comment=Micro-SD / Transflash card holder with SPI pinout   For the 3M # 2908-05WB-MG and/or 4UCON #19656 push-push type
+Change Component Designator: OldDesignator=uSD NewDesignator=uSD?
